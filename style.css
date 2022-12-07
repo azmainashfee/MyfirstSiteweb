@@ -45,7 +45,7 @@ h2 {
 }
 .horizontal {
   border-top: 8px dotted #7b8181;
-  width: 5%;
+  width: 3%;
   margin: 80px auto 80px auto;
 }
 .end-container {
@@ -85,4 +85,31 @@ h3 {
   text-align: right;
   position: relative;
   right: 320px;
+}
+.footer {
+  text-align: center;
+}
+.lastpart {
+  background-color: #66bfbf;
+  height: 180px;
+}
+.Links {
+  font-size: 25px;
+  padding: 40px;
+  border: 10px;
+  color: #11999e;
+  font-family: "Signika Negative", sans-serif;
+}
+.jayga {
+  padding: 50px;
+}
+.finish {
+  color: #eaf6f6;
+  font-family: "Signika Negative", sans-serif;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
