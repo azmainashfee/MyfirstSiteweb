@@ -1,0 +1,88 @@
+.top-container {
+  text-align: center;
+  background-color: #eaf6f6;
+  margin: 0px;
+}
+.heading {
+  margin-top: 0px;
+  padding-top: 100px;
+  color: #66bfbf;
+  font-family: "Pacifico", cursive;
+  font-size: 70px;
+}
+.body-custom {
+  margin: 0px;
+}
+.cloud {
+  position: absolute;
+  right: 400px;
+  display: block;
+  top: 0px;
+}
+.cloud-2 {
+  position: absolute;
+  left: 300px;
+  top: 400px;
+}
+.middle-container {
+  background-color: white;
+  text-align: center;
+}
+
+.angela {
+  margin-top: 50px;
+}
+.para {
+  color: #40514e;
+  font-family: "Signika Negative", sans-serif;
+  font-size: 20px;
+  line-height: 2;
+}
+h2 {
+  color: #66bfbf;
+  font-size: 40px;
+  font-family: "Signika Negative", sans-serif;
+}
+.horizontal {
+  border-top: 8px dotted #7b8181;
+  width: 5%;
+  margin: 80px auto 80px auto;
+}
+.end-container {
+  text-align: center;
+  margin: auto 500px auto 500px;
+}
+.coding {
+  height: 200px;
+  float: left;
+}
+.para2 {
+  text-align: left;
+  padding-left: 250px;
+}
+.gaming-image {
+  height: 200px;
+  float: right;
+}
+.skill-2 {
+  margin-top: 150px;
+}
+.para3 {
+  text-align: left;
+  padding-right: 250px;
+  margin-top: 20px;
+}
+h3 {
+  color: #66bfbf;
+  font-family: "Signika Negative", sans-serif;
+  font-size: 20px;
+}
+.wtf {
+  margin-top: 100px;
+}
+.gaming-h3 {
+  display: inline-block;
+  text-align: right;
+  position: relative;
+  right: 320px;
+}
